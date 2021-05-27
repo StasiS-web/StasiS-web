@@ -18,6 +18,7 @@
 ## About me 🤓:
 * 🖥 Working on becoming a Full-Stack Developer.
 * 🎯 I’m currently focused learning C# at SoftUni. 
+* ⚙️ I'm looking to collaborate on projects that will help me improve my skills.
 * 🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.
 * 💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.. 
 * ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.
