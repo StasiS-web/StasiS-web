@@ -3,7 +3,7 @@
 * 📌 Student at Software University  
 * 📌 Junior Developer from Guildford UK
 
-## 💻 Prefered Technologies And Languages:                                    
+## 💻  Prefered Technologies And Languages:                                    
 * Most prefered languages: 
 ![Visual Studio](https://camo.githubusercontent.com/b93538aa01992433265dde40fc131f61cd2bd78dae2b4389e7bfd251b91f44c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439313f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465)
 ![#C](https://camo.githubusercontent.com/6cf418c39b6c354926c1947df02c0d79e9e3b80c4bb0fb7ae94a0dcb62c01933/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d3233393132303f7374796c653d666c6174266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
@@ -20,5 +20,5 @@
 * 💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.. 
 * ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.
 
-## Contact Me:
+## Contact me 🌞:
 * 📧 How to reach me: via [Email](stanislavastoeva1410@gmail.com) or [Linkedin](www.linkedin.com/in/stanislavastoeva)
