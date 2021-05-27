@@ -21,5 +21,5 @@
   ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
   🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.</p>
   💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.</p>
-  📧 How to reach me: via [Linkedin](www.linkedin.com/in/stanislavastoeva).</p>
+  📧 How to reach me: via Email: *stanislavastoeva1410@gmail.com* or [Linkedin](www.linkedin.com/in/stanislavastoeva).</p>
   ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
