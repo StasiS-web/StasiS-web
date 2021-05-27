@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Stanislava 👩‍💻
 
-* 📌 Student at Software University  
+* 📌 Student at [Software University](https://softuni.bg) 
 * 📌 Junior Developer from Guildford UK
 
 ## 💻  Technologies And Languages:                                    
@@ -18,7 +18,7 @@
 
 ## About me 🤓:
 * 🖥 Working on becoming a Full-Stack Developer.
-* 🎯 I’m currently focused learning C# at Soft Uni. 
+* 🎯 I’m currently focused learning C# at SoftUni. 
 * 🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.
 * 💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.. 
 * ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.
