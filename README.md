@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Stanislava 👩‍💻
 
-📌 Student at Software University
-Junior Developer from Guildford UK
+•📌 Student at Software University
+•📌 Junior Developer from Guildford UK
 
 [Stackoverflow](https://stackoverflow.com/users/10562373/stanislava-stoeva?tab=profile)
 
