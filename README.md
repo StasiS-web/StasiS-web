@@ -1,13 +1,12 @@
 # Hi there 👋 My name is Stanislava 👩‍💻
-
-•📌 Student at Software University
-•📌 Junior Developer from Guildford UK
+  📌 Student at Software University
+  📌 Junior Developer from Guildford UK
 
 [Stackoverflow](https://stackoverflow.com/users/10562373/stanislava-stoeva?tab=profile)
 
-## 💻 Prefered Technologies And Languages:                                    
-💻 Most prefered languages - Visual Studio: #C and Visual Studio Code: HTML5 & CSS3
-💻 IntelliJ IDEA: Java
+## Prefered Technologies And Languages:                                    
+• 💻 Most prefered languages - Visual Studio: #C and Visual Studio Code: HTML5 & CSS3
+• 💻 IntelliJ IDEA: Java
 
 ## About me 🤓:
 * 🖥 Working on becoming a Full-Stack Developer.
