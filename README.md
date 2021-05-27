@@ -15,11 +15,11 @@
 ![Java](https://camo.githubusercontent.com/904677daed31647577085b893b9c73182d189c8433c5c3cb67b4ed43ebce1751/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f6c6f676f3d6a617661266c6f676f57696474683d3230)
 * Software Technologies: IntelliJ IDEA 
 
-## About me 🤓:
-<p>🖥 Working on becoming a Full-Stack Developer.</p>
-<p>🎯 I’m currently focused learning C# and Java.</p> 
-<p>⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
-<p>🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.</p>
-<p>💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.</p>
-<p>📧 How to reach me: via [Email](stanislavastoeva1410@gmail.com) or [Linkedin](www.linkedin.com/in/stanislavastoeva).</p>
-<p>⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
+ ## About me 🤓:
+<p>🖥  Working on becoming a Full-Stack Developer.</p>
+<p>🎯  I’m currently focused learning C# and Java.</p> 
+<p>⚙️  I'm looking to collaborate on projects that will help me improve my skills.</p>
+<p>🌱  On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.</p>
+<p>💡  I'm really passionate about computers and programming and possess knowledge of HTML/CSS.</p>
+<p>📧  How to reach me: via [Email](stanislavastoeva1410@gmail.com) or [Linkedin](www.linkedin.com/in/stanislavastoeva).</p>
+<p>⚡   Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
