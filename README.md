@@ -9,11 +9,6 @@ Junior Developer from Guildford UK
 💻 Most prefered languages - Visual Studio: #C and Visual Studio Code: HTML5 & CSS3
 💻 IntelliJ IDEA: Java
 
-### Know Languages:
-🇬🇧 English (Proficient)
-🇪🇸 Spanish (Intermediate)
-🇧🇬 Bulgarian (Native)
-
 ## About me 🤓:
 * 🖥 Working on becoming a Full-Stack Developer.
 * 🎯 I’m currently learning C# Advanced at Soft Uni. 
