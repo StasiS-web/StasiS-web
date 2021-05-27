@@ -1,6 +1,7 @@
 # Hi there 👋 My name is Stanislava 👩‍💻
 
-📌  Student at Software University  📌 Junior Developer from Guildford UK
+* 📌 Student at Software University  
+* 📌 Junior Developer from Guildford UK
 
 ## 💻 Prefered Technologies And Languages:                                    
 * Most prefered languages: 
@@ -12,12 +13,11 @@
 ![GitHub](https://camo.githubusercontent.com/45f27e5a6c3a058ce27cfa3c827d5e1e9eba6e1e2bcedf36c76b0c49e0128916/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 * IntelliJ IDEA Java
 
-
 ## About me 🤓:
 * 🖥 Working on becoming a Full-Stack Developer.
 * 🎯 I’m currently focused learning C# at Soft Uni. 
 * 🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.
 * 📧 How to reach me: via [Email](stanislavastoeva1410@gmail.com) or [Linkedin](www.linkedin.com/in/stanislavastoeva)
 * 💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.. 
-* ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and 📚reading books.
+* ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.
 -->
