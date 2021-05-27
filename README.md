@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Stanislava 👩‍💻
 
-* 📌 Student at [Software University](https://softuni.bg) 
-* 📌 Junior Developer from Guildford UK
+<p>📌 Student at [Software University](https://softuni.bg) </p>
+<p>📌 Junior Developer from Guildford UK </p>
 
 ## 💻  Technologies & Languages:                                    
 * Prefered Languages and Software Technologies: 
