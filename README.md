@@ -22,6 +22,6 @@
 * 🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.
 * 💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.. 
 * ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.
-
-## 🌞 Contact me:
+ - - - -
+**Contact me:**
 📧 How to reach me: via [Email](stanislavastoeva1410@gmail.com) or [Linkedin](www.linkedin.com/in/stanislavastoeva). 
