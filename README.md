@@ -28,3 +28,4 @@
   💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.</p>
   📧 How to reach me: via Email *stanislavastoeva1410@gmail.com*, [Linkedin](www.linkedin.com/in/stanislavastoeva) or [Discord](https://discord.com/channels/@Stasi#4872).</p>
   ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
+  
