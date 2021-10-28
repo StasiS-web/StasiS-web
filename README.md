@@ -1,7 +1,11 @@
-# Hi there 👋 My name is Stanislava 👩‍💻
+  ![header](https://capsule-render.vercel.app/api?&animation=fadeIn&color=timeGradient)
 
-📌 Student at [Software University](https://softuni.bg)
+# Hi there 👋 My name is Stanislava 👩‍💻                                              
+       
+📌 Student at [Software University](https://softuni.bg)                          
 <p>📌 Junior Developer from Guildford UK </p>
+
+![Stasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&count_private=true&hide_border=true&theme=blueberry) 
 
 ## 💻  Technologies & Languages:                                  
 * Prefered Languages and Technologies: 
@@ -20,6 +24,7 @@
   🎯 I’m currently focused learning C# and Java. </p>
   ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
   🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.</p>
+  :writing_hand: Reading & writing programming blogs whenever possible.</p>
   💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.</p>
   📧 How to reach me: via Email *stanislavastoeva1410@gmail.com*, [Linkedin](www.linkedin.com/in/stanislavastoeva) or [Discord](https://discord.com/channels/@Stasi#4872).</p>
   ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
