@@ -3,7 +3,8 @@
 # Hi there 👋 My name is Stanislava 👩‍💻                                              
        
 📌 Student at [Software University](https://softuni.bg)                          
-<p>📌 Junior Developer from Guildford UK </p>
+<p>📌 Junior Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 ![Stasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&count_private=true&hide_border=true&theme=blueberry) 
 
@@ -26,9 +27,15 @@
   🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.</p>
   :writing_hand: Reading & writing programming blogs whenever possible.</p>
   💡 I'm really passionate about computers and programming.</p>
-  📧 How to reach me: via Email *stanislavastoeva1410@gmail.com*, [Linkedin](www.linkedin.com/in/stanislavastoeva) or [Discord](https://discord.com/channels/@Stasi#4872).</p>
   ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
-  
+   📧 How to reach me: via Email *stanislavastoeva1410@gmail.com*
+   
+  <p align="center">
+  <a href="https://www.linkedin.com/in/stanislavastoeva/" alt="Linkedin"> </a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/invite/Stasi#4872" alt="Discord"> </i> </a>
+  </p>
+ 
   ---
 ### 🗞️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
