@@ -29,12 +29,8 @@
   📧 How to reach me: via Email *stanislavastoeva1410@gmail.com*, [Linkedin](www.linkedin.com/in/stanislavastoeva) or [Discord](https://discord.com/channels/@Stasi#4872).</p>
   ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
   
+  ---
 ### 🗞️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Object-Oriented Programming and its elements in C#?](https://codingexpert.medium.com/what-is-object-oriented-programming-d2cc194a2164?source=rss-1641335a14cb------2)
-- [Why learn C#? 5 Reasons to learn it](https://codingexpert.medium.com/why-learn-c-5-reasons-to-learn-it-a3185ae6bf81?source=rss-1641335a14cb------2)
-- [How to learn coding: Places to learn programming languages](https://codingexpert.medium.com/how-to-learn-coding-places-to-learn-programming-languages-a0d1e9f4b37e?source=rss-1641335a14cb------2)
-- [8 Most useful Shortcuts Key on Visual Studio and Symbols for Mac](https://codingexpert.medium.com/8-most-useful-shortcuts-key-on-visual-studio-and-symbols-for-mac-bc18ef3ede6e?source=rss-1641335a14cb------2)
-- [Best programming language: which is the first one that you should learn as Beginner?](https://codingexpert.medium.com/best-programming-language-which-is-the-first-one-that-you-should-learn-as-beginner-58411477da23?source=rss-1641335a14cb------2)
 <!-- BLOG-POST-LIST:END -->
 
