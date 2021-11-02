@@ -21,11 +21,11 @@
 
  ## About me 🤓:
   🖥 Working on becoming a Full-Stack Developer.</p>
-  🎯 I’m currently focused learning C# and Java. </p>
+  🎯 I’m currently focused learning C#. </p>
   ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
   🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.</p>
   :writing_hand: Reading & writing programming blogs whenever possible.</p>
-  💡 I'm really passionate about computers and programming and possess knowledge of HTML/CSS.</p>
+  💡 I'm really passionate about computers and programming.</p>
   📧 How to reach me: via Email *stanislavastoeva1410@gmail.com*, [Linkedin](www.linkedin.com/in/stanislavastoeva) or [Discord](https://discord.com/channels/@Stasi#4872).</p>
   ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
   
