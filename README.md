@@ -29,7 +29,7 @@
   📧 How to reach me: via Email *stanislavastoeva1410@gmail.com*, [Linkedin](www.linkedin.com/in/stanislavastoeva) or [Discord](https://discord.com/channels/@Stasi#4872).</p>
   ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
   
-# 🗞️ Latest Blog Posts
+### 🗞️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
