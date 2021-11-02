@@ -15,6 +15,7 @@
 ![HTML5](https://camo.githubusercontent.com/1552d2596cea2d6a701b5df74c7fecfd7e3af38daf3de396c40dee419139a266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![CSS3](https://camo.githubusercontent.com/0ae9b770a5e2d524f14c74bb1c93278dd53b2a5930864a33e0d0483439e67b2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f267374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ![GitHub](https://camo.githubusercontent.com/45f27e5a6c3a058ce27cfa3c827d5e1e9eba6e1e2bcedf36c76b0c49e0128916/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+![Docker] (https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
 * Programming Languages: 
 ![Java](https://camo.githubusercontent.com/904677daed31647577085b893b9c73182d189c8433c5c3cb67b4ed43ebce1751/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f6c6f676f3d6a617661266c6f676f57696474683d3230)
 * Software Technologies: IntelliJ IDEA 
@@ -32,10 +33,5 @@
   ---
 ### 🗞️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Object-Oriented Programming and its elements in C#?](https://codingexpert.medium.com/what-is-object-oriented-programming-d2cc194a2164?source=rss-1641335a14cb------2)
-- [Why learn C#? 5 Reasons to learn it](https://codingexpert.medium.com/why-learn-c-5-reasons-to-learn-it-a3185ae6bf81?source=rss-1641335a14cb------2)
-- [How to learn coding: Places to learn programming languages](https://codingexpert.medium.com/how-to-learn-coding-places-to-learn-programming-languages-a0d1e9f4b37e?source=rss-1641335a14cb------2)
-- [8 Most useful Shortcuts Key on Visual Studio and Symbols for Mac](https://codingexpert.medium.com/8-most-useful-shortcuts-key-on-visual-studio-and-symbols-for-mac-bc18ef3ede6e?source=rss-1641335a14cb------2)
-- [Best programming language: which is the first one that you should learn as Beginner?](https://codingexpert.medium.com/best-programming-language-which-is-the-first-one-that-you-should-learn-as-beginner-58411477da23?source=rss-1641335a14cb------2)
 <!-- BLOG-POST-LIST:END -->
 
