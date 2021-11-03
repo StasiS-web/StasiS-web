@@ -6,7 +6,12 @@
 <p>📌 Junior Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Stasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&count_private=true&hide_border=true&theme=blueberry) 
+<details>
+    <summary>Stasi's GitHub stats</summary>
+    </br>
+<img src="https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&count_private=true&hide_border=true&theme=blueberry" alt="GitHub stats"> 
+<br><br>
+</details>
 
 ## 💻 Technologies & Languages:  
   * Prefered Languages and Technologies: 
