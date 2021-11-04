@@ -25,7 +25,7 @@
   :writing_hand: Writing programming blogs over at **[medium.com](https://codingexpert.medium.com/)**</p>
   ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
   <details>
-    <summary>More Info about me</summary>
+    <summary>More About me</summary>
     </br>
     💡 I'm really passionate about computers and programming.</p>
     🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.</p>
