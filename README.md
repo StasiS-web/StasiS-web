@@ -45,7 +45,7 @@
 
 <footer>
   <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=StasiS-web&label=Profile%20views&color=0e75b6&style=flat" alt="StasiS-web" style="height: 20px; width: auto;"/>
+    <img width=auto height="20" src="https://visitor-badge.glitch.me/badge?page_id=StasiS-web">
   </p>
   <p align="center">
    <i>Let's connect! Follow me:</i>
