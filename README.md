@@ -7,7 +7,7 @@
 </em></p>
 
 <details>
-    <summary>Stanislava Stoeva's GitHub stats</summary>
+    <summary>Stanislava Stoeva's GitHub Stats</summary>
     </br>
 <img src="https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&count_private=true&hide_border=true&theme=blueberry" alt="GitHub stats"> 
 <br><br>
