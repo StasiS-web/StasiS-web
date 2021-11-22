@@ -39,11 +39,11 @@
   ---
 ## 🗞️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [C# Tips and Tricks for coding faster in 2021](https://codingexpert.medium.com/tips-and-tricks-for-coding-faster-45b292ceb235?source=rss-1641335a14cb------2)
 - [What are the 4 fundamental characteristics in C# OOP?](https://codingexpert.medium.com/what-are-the-4-fundamental-characteristics-f87f168fe3d3?source=rss-1641335a14cb------2)
 - [How to apply C# Best Practices using SOLID Principles in Programming?](https://codingexpert.medium.com/how-to-apply-c-best-practices-using-solid-principles-in-programming-b651c3b5ace?source=rss-1641335a14cb------2)
 - [What is Object-Oriented Programming and its elements in C#?](https://codingexpert.medium.com/what-is-object-oriented-programming-d2cc194a2164?source=rss-1641335a14cb------2)
 - [Why learn C#? 5 Reasons to learn it](https://codingexpert.medium.com/why-learn-c-5-reasons-to-learn-it-a3185ae6bf81?source=rss-1641335a14cb------2)
-- [How to learn coding: Places to learn programming languages](https://codingexpert.medium.com/how-to-learn-coding-places-to-learn-programming-languages-a0d1e9f4b37e?source=rss-1641335a14cb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <footer>
