@@ -1,15 +1,16 @@
   ![header](https://capsule-render.vercel.app/api?&animation=fadeIn&color=timeGradient)
 
-# Hi there My name is Stanislava 👩‍💻                                              
+# Hi there My name is Stanislava 👋                                            
        
 📌 Student at [Software University](https://softuni.bg)                          
 <p>📌 Junior Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <details>
-    <summary>Stanislava Stoeva's GitHub Stats</summary>
+    <summary>GitHub Stats</summary>
     </br>
-<img src="https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&count_private=true&hide_border=true&theme=blueberry" alt="GitHub stats"> 
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&count_private=true&hide_border=true&theme=blueberry" alt="GitHub stats">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&hide_border=true&theme=blueberry" />
+
 <br><br>
 </details>
 
@@ -53,8 +54,6 @@
   <p align="center">
    <i>Let's connect! Follow me:</i>
   <a href="https://www.linkedin.com/in/stanislavastoeva/" alt="Linkedin"><img src="https://github.com/StasiS-web/StasiS-web/blob/2d8b1516b077a3a9659890290ab9392e8c05bd60/readme/linkedin-box-fill.svg"></a>
-  <a href="https://discordapp.com/invite/Stasi4872" alt="Discord"><img src="https://github.com/StasiS-web/StasiS-web/blob/2d8b1516b077a3a9659890290ab9392e8c05bd60/readme/discord-fill.svg"></a>
     <a href="https://twitter.com/StasiStoeva" alt="Twitter"><img src="https://github.com/StasiS-web/StasiS-web/blob/bde5bcb0600fa0d7464d8d0fe99caf4c7ca99a6a/readme/twitter-fill.svg"></a>
-    <a href="mailto:stanislavastoeva1410@gmail.com" alt="Contact me"><img src="https://github.com/StasiS-web/StasiS-web/blob/bde5bcb0600fa0d7464d8d0fe99caf4c7ca99a6a/readme/mail-fill.svg"></a>
   </p>
  </footer>
