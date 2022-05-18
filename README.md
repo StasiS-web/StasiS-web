@@ -31,9 +31,8 @@
     <summary>More About me</summary>
     </br>
     💡 I'm really passionate about computers and programming.</p>
-    🌱 On this site, you can find my homework from SoftUni and some extra solutions from Hacker Rank.</p>
     ⭐️ Reading blog post about programming whenever possible.</p>
-    ⚡  Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
+    ⚡ Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and reading books.</p>
   <br><br>
 </details>
   
