@@ -9,8 +9,8 @@
 <details>
     <summary>GitHub Stats</summary>
     </br>
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&count_private=true&hide_border=true&theme=blueberry" alt="GitHub stats">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&hide_border=true&theme=blueberry" />
-
+    <img src="https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&hide_border=true&theme=blueberry" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&hide_border=true&theme=blueberry&exclude_repo=github-readme-stats,StasiS-web.github.io" />
 <br><br>
 </details>
 
