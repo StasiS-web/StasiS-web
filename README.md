@@ -39,7 +39,8 @@
   </p>
   <p align="center">
    <i>Let's connect! Follow me:</i>
-  <a href="https://www.linkedin.com/in/stanislavastoeva/" alt="Linkedin"><img src="https://github.com/StasiS-web/StasiS-web/blob/2d8b1516b077a3a9659890290ab9392e8c05bd60/readme/linkedin-box-fill.svg"></a>
-    <a href="https://twitter.com/StasiStoeva" alt="Twitter"><img src="https://github.com/StasiS-web/StasiS-web/blob/bde5bcb0600fa0d7464d8d0fe99caf4c7ca99a6a/readme/twitter-fill.svg"></a>
+    <a href="www.linkedin.com/in/stanislavastoeva" alt="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2.5%"/></a>
+    <a href="https://discord.gg/Stasi14" alt="Discord"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="2.5%"/></a>
+    <a href="https://twitter.com/StasiStoeva" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="2.5%"/></a>
   </p>
  </footer>
