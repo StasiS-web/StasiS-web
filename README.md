@@ -7,7 +7,7 @@
 </h1>
        
 📌 Student at [Software University](https://softuni.bg)                          
-<p>📌 Junior Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <details>
