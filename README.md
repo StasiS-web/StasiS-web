@@ -38,8 +38,15 @@
     ⚡ Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and Reading books.</p>
 <br><br>
 </details>
- 
 
+## :computer: Projects 
+Some of my projects (finished or unfinished) are already on my github, so feel free to take a look! 
+
+[ArtGallery](https://github.com/StasiS-web/ArtGallery) - An app in the c# programming language using ASP.NET MVC
+
+[Porfolio](https://github.com/StasiS-web/portfolio) - Responsive website
+
+[SpaceTourism](https://github.com/StasiS-web/spaceTourism) - Multi-page website Challenge
  
 <footer>
   <p align="center">
