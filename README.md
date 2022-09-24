@@ -7,7 +7,7 @@
 </h1>
 
 <!-- HTML -->
-<img align="right" src="https://readme-jokes.vercel.app/api?theme=daySky&raw=true" alt="Jokes Card" />
+<img align="right" src="https://readme-jokes.vercel.app/api?theme=nightowl&raw=true" alt="Jokes Card" />
        
 📌 Student at [Software University](https://softuni.bg)                          
 <p>📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
