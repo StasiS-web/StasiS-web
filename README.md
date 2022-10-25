@@ -12,18 +12,33 @@
 <details>
     <summary>GitHub Stats</summary>
     </br>
-  <img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api?username=StasiS-web&show_icons=true&theme=blueberry&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
- <img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=StasiS-web&theme=blueberry&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" />
+ <img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&theme=blueberry&hide_border=true" />
 <br><br>
 </details>
 
-## 💻 Technologies & Languages:  
-  * Prefered Languages and Technologies: 
-<img src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=plastic" /> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="35" />
-<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="35" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="35" /> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"  />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="30"/> <img src="https://camo.githubusercontent.com/45f27e5a6c3a058ce27cfa3c827d5e1e9eba6e1e2bcedf36c76b0c49e0128916/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"/> 
-* Database Technologies: <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png" width="40" height="35"/> 
-
+## 💻 Preferable Technologies & Languages:  
+<table align="center"><tr><td valign="top" width="33%">
+   
+### Front-End
+<div align="center">  
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"  />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
+</div></td><td valign="top" width="33%">
+  
+### Backend
+<div align="center">  
+<img src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=plastic" /> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"  />
+</div></td><td valign="top" width="33%">
+  
+### Database 
+<div align="center">  
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png" width="40" height="40"/> 
+</div></td></tr></table> 
 
 ## About me 🤓:
   🖥 Working on becoming a C# Full-Stack Developer.</p>
