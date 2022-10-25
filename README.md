@@ -5,19 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;My+name+is+Stanislava...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-<!-- HTML -->
-<img align="right" src="https://readme-jokes.vercel.app/api?theme=nightowl&raw=true" alt="Jokes Card" />
        
 📌 Student at [Software University](https://softuni.bg)                          
-<p>📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   
 <details>
     <summary>GitHub Stats</summary>
     </br>
-    <img src="https://github-readme-stats.vercel.app/api?username=StasiS-web&show_icons=true&hide_border=true&theme=blueberry" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&hide_border=true&theme=blueberry&exclude_repo=github-readme-stats,StasiS-web.github.io" />
+  <img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api?username=StasiS-web&show_icons=true&theme=blueberry&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+ <img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&theme=tokyonight&hide_border=true" />
 <br><br>
 </details>
 
