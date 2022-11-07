@@ -74,7 +74,7 @@
 <p>Some of my projects (finished or unfinished) are already on my github, so feel free to take a look!</p>
 <br><br><br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/StasiS-web/ArtGallery" title="Art Gallery"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=ArtGallery&theme=blueberry&border_color=c9b6ec&border_radius=10"></a><br/><br/><br/><br/><br/><br/>
+  <a align="right" href="https://github.com/StasiS-web/ArtGallery" title="Art Gallery"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=ArtGallery&theme=blueberry&border_color=c9b6ec&border_radius=10"></a>
  <a align="left" href="https://github.com/StasiS-web/portfolio" title="Portfolio/Resume"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=portfolio&theme=blueberry&border_color=c9b6ec&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
