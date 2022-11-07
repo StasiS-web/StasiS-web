@@ -67,6 +67,9 @@ Some of my projects (finished or unfinished) are already on my github, so feel f
 [Porfolio](https://github.com/StasiS-web/portfolio) - Responsive website
 
 [SpaceTourism](https://github.com/StasiS-web/spaceTourism) - Multi-page website Challenge
+
+## Snake eating my contribution graph
+![snake gif](https://github.com/StasiS-web/StasiS-web/blob/output/github-contribution-grid-snake.gif)
  
 <footer>
   <p align="center">
