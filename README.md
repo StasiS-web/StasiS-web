@@ -17,6 +17,15 @@
 <br><br>
 </details>
 
+<div>
+<h2> 🐍 Snake eating my contribution graph: 🐍 </h2>
+<br>
+<img alt="snake eating my contribution" src="https://github.com/StasiS-web/StasiS-web/blob/output/github-contribution-grid-snake.gif">
+<br>
+<br>
+<br>
+</div>
+
 <h2> 💻 Preferable Technologies & Languages:</h2>
 <table align="center"><tr><td valign="top" width="33%">
    
@@ -72,16 +81,7 @@
   <a align="left" href="https://github.com/StasiS-web/spaceTourism" title="Space Tourism"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=spaceTourism&theme=blueberry&border_color=c9b6ec&border_radius=10"></a>
 </div>
 
-<br><br><br><br><br>
-
-<div>
-<h2> 🐍 Snake eating my contribution graph: 🐍 </h2>
-<br>
-<img alt="snake eating my contribution" src="https://github.com/StasiS-web/StasiS-web/blob/output/github-contribution-grid-snake.gif">
-<br>
-<br>
-<br>
-</div>
+<br/><br/><br/><br/><br/><br/>
 
 <footer>
   <p align="center">
