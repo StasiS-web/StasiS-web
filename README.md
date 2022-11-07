@@ -20,7 +20,7 @@
 <div>
 <h2> 🐍 Snake eating my contribution graph: 🐍 </h2>
 <br>
-<img alt="snake eating my contribution" src="https://github.com/StasiS-web/StasiS-web/blob/output/github-contribution-grid-snake.gif">
+<img alt="snake eating my contribution" src="https://github.com/StasiS-web/StasiS-web/blob/output/github-contribution-grid-snake.svg">
 <br>
 <br>
 <br>
