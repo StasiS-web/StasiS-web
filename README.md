@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?&animation=fadeIn&color=timeGradient)
+ <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&color=timeGradient">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,17 +10,17 @@
 <p>📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   
 <details>
-    <summary>GitHub Stats</summary>
-    </br>
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=StasiS-web&theme=blueberry&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" />
- <img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&theme=blueberry&hide_border=true" />
+ <summary>GitHub Stats</summary>
+</br>
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=StasiS-web&theme=blueberry&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" />
+<img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&theme=blueberry&hide_border=true" />
 <br><br>
 </details>
 
-## 💻 Preferable Technologies & Languages:  
+<h2> 💻 Preferable Technologies & Languages:</h2>
 <table align="center"><tr><td valign="top" width="33%">
    
-### Front-End
+<h3> Front-End </h3>
 <div align="center">  
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
@@ -28,24 +28,24 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </div></td><td valign="top" width="33%">
   
-### Backend
+<h3> Backend </h3>
 <div align="center">  
 <img src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=plastic" /> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"  />
 </div></td><td valign="top" width="33%">
   
-### Database 
+<h3> Database  </h3>
 <div align="center">  
 <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png" width="40" height="40"/> 
 </div></td><td valign="top" width="33%">
 
-### Other
+<h3> Other </h3>
 <div align="center"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
 </div></td></tr></table> 
 
-## About me 🤓:
+<h2> About me 🤓: </h2>
   🖥 Working on becoming a C# Full-Stack Developer.</p>
   :writing_hand: Writing programming blogs over at **[medium.com](https://codingexpert.medium.com/)**</p>
   ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
@@ -58,19 +58,35 @@
     ⚡ Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and Reading books.</p>
 <br><br>
 </details>
+<br>
 
-## :computer: Projects 
+<h2> :computer: Projects:  </h2>
 Some of my projects (finished or unfinished) are already on my github, so feel free to take a look! 
+<br>
+<br>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/StasiS-web/ArtGallery" title="Art Gallery"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=ArtGallery&theme=blueberry&border_color=c9b6ec&border_radius=10"></a>
+  <a align="left" href="https://github.com/StasiS-web/portfolio" title="Portfolio/Resume"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=portfolio&theme=blueberry&border_color=c9b6ec&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/StasiS-web/spaceTourism" title="Space Tourism"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=spaceTourism&theme=blueberry&border_color=c9b6ec&border_radius=10"></a>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
+<h2> 🐍 Snake eating my contribution graph: 🐍 </h2>
+<br>
+<img alt="snake eating my contribution" src="https://github.com/StasiS-web/StasiS-web/blob/output/github-contribution-grid-snake.gif">
+<br>
+<br>
+<br>
+</div>
 
-[ArtGallery](https://github.com/StasiS-web/ArtGallery) - An app in the c# programming language using ASP.NET MVC
-
-[Porfolio](https://github.com/StasiS-web/portfolio) - Responsive website
-
-[SpaceTourism](https://github.com/StasiS-web/spaceTourism) - Multi-page website Challenge
-
-## Snake eating my contribution graph
-![snake gif](https://github.com/StasiS-web/StasiS-web/blob/output/github-contribution-grid-snake.gif)
- 
 <footer>
   <p align="center">
     <img width=auto height="20" src="https://visitor-badge.glitch.me/badge?page_id=StasiS-web">
