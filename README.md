@@ -7,7 +7,7 @@
 </h1>
        
 📌 Student at [Software University](https://softuni.bg)                          
-<p>📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+<p>📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></p>
   
 <details>
  <summary>GitHub Stats</summary>
@@ -50,6 +50,7 @@
 
 <h3> Other </h3>
 <div align="center"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
