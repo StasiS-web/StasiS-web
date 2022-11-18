@@ -12,8 +12,15 @@
 <details>
  <summary>GitHub Stats</summary>
 </br>
+<div align="right"> 
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=StasiS-web&theme=blueberry&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" />
+</div>
+<div> 
+<img align="center" width="47%"src="https://github-readme-streak-stats.herokuapp.com/?user=StasiS-web&theme=blueberry&hide_border=true" />
+</div>
+<div align="right">
 <img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=StasiS-web&layout=compact&theme=blueberry&hide_border=true" />
+</div>
 <br><br>
 </details>
 
