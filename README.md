@@ -65,8 +65,9 @@
 
 <h2> About me 🤓: </h2>
   🖥 Working on becoming a C# Full-Stack Developer.</p>
-  :writing_hand: Writing programming blogs over at  :newspaper:<a href="https://codingexpert.medium.com/">Medium</a></p>
   ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
+  :writing_hand: Writing programming blogs over at  :newspaper:<a href="https://codingexpert.medium.com/">Medium</a></p>
+  
   <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="200"/>
   <details>
   <summary>More About me</summary>
