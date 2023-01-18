@@ -64,17 +64,17 @@
 </div></td></tr></table> 
 
 <h2> About me 🤓: </h2>
-  🖥 Working on becoming a C# Full-Stack Developer.</p>
-  ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
-  :writing_hand: Writing programming blogs over at  :newspaper:<a href="https://codingexpert.medium.com/">Medium</a></p>
+An aspiring Junior Web Developer available for work on various projects in Front-end web development. I started my journey in programming by studying at Guildford College Surrey, UK, following a degree in architectural technologies. At the moment, I am completing a 3-year course in C# programming at Software University (SoftUni) online and looking for work on web development projects.</p>
   
   <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="200"/>
   <details>
   <summary>More About me</summary>
   </br>
+    ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
+    :writing_hand: Writing programming blogs over at  :newspaper:<a href="https://codingexpert.medium.com/">Medium</a></p>
     💡  I'm really passionate about computers and programming.</p>
     ⭐️ Reading blog post about programming whenever possible.</p>
-    ⚡ Fun fact: I love Yoga, Cycling, Ice-skating & Swimming and Reading books.</p>
+    ⚡ Fun fact: I love Yoga, Cycling and Reading books.</p>
 <br><br>
 </details>
 <br>
