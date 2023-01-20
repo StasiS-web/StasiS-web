@@ -1,6 +1,6 @@
- <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&color=timeGradient">
 
 <h1 align="center">
+ <img src="https://res.cloudinary.com/dnvg6uuxl/image/upload/v1674237660/profile_cover_image_cyraoa.png" width="1300">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;My+name+is+Stanislava...;Nice+to+meet+you!&center=true&size=30">
   </a>
