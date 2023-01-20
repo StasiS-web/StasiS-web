@@ -93,7 +93,7 @@ An aspiring Junior Web Developer available for work on various projects in Front
 
 <br/><br/><br/><br/><br/><br/>
 
-<footer>
+<footer align="center">
   <p align="center">
     <img width=auto height="20" src="https://visitor-badge.glitch.me/badge?page_id=StasiS-web">
   </p>
