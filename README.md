@@ -95,7 +95,7 @@ An aspiring Junior Web Developer available for work on various projects in Front
 
 <footer align="center">
   <p align="center">
-    <img width=auto height="20" src="https://visitor-badge.glitch.me/badge?page_id=StasiS-web">
+    <img width=auto height="25" src="https://komarev.com/ghpvc/?username=StasiS-web&color=C7D7EF">
   </p>
   <p align="center">
    <i>Let's connect! Follow me:</i>
