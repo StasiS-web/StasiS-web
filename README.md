@@ -99,8 +99,8 @@ An aspiring Junior Web Developer available for work on various projects in Front
   </p>
   <p align="center">
    <i>Let's connect! Follow me:</i>
-    <a href="https://www.linkedin.com/in/stanislavastoeva/" alt="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5.5%"/></a>
-    <a href="https://discord.com/#4872" alt="Discord"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="5.5%"/></a>
-    <a href="https://twitter.com/StasiStoeva" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5.5%"/></a>
+    <a href="https://www.linkedin.com/in/stanislavastoeva/" alt="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/></a>
+    <a href="https://discord.com/#4872" alt="Discord"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3%"/></a>
+    <a href="https://twitter.com/StasiStoeva" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/></a>
   </p>
  </footer>
