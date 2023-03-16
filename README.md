@@ -89,6 +89,7 @@ An aspiring Junior Web Developer available for work on various projects in Front
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/StasiS-web/spaceTourism" title="Space Tourism"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=spaceTourism&theme=blueberry&border_color=c9b6ec&border_radius=10"></a>
+  <a align="left" href="https://github.com/StasiS-web/Travel-Blog" title="Travel-Blog"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=StasiS-web&repo=Travel-Blog&theme=blueberry&border_color=c9b6ec&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
