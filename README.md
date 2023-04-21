@@ -6,8 +6,8 @@
   </a>
 </h1>
        
-📌 Student at [Software University](https://softuni.bg)                          
-<p>📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></p>
+📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></p>
+   Website: <a href="https://stasis-web.github.io/index.html">Portfolio</a>
   
 <details>
  <summary>GitHub Stats</summary>
