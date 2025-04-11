@@ -6,7 +6,7 @@
   </a>
 </h1>
        
-📌 Junior Web Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></p>
+📌 Junior Front-End Developer from Guildford UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></p>
    Website: <a href="https://stasis-web.github.io/index.html">Portfolio</a>
   
 <details>
