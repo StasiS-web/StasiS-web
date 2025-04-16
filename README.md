@@ -45,15 +45,11 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 </div></td><td valign="top" width="33%">
   
-<h3> Backend </h3>
+<h3> Backend & Database </h3>
 <div align="center">  
 <img src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=plastic" /> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"  />
-</div></td><td valign="top" width="33%">
-  
-<h3> Database  </h3>
-<div align="center">  
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png" width="40" height="40"/> 
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png" width="40" height="40"/>
 </div></td><td valign="top" width="33%">
 
 <h3> Other </h3>
@@ -65,7 +61,7 @@
 </div></td></tr></table> 
 
 <h2> About me 🤓: </h2>
-An aspiring Junior Web Developer available for work on various projects in Front-end web development. I started my journey in programming by studying at Guildford College Surrey, UK, following a degree in architectural technologies. At the moment, I am completing a 3-year course in C# programming at Software University (SoftUni) online and looking for work on web development projects.</p>
+ An aspiring Front-End Developer with hands-on experience developing websites and applications using HTML, CSS, JavaScript, and React. I have completed a 3-year Web Development course at Software University (SoftUni), where I gained a solid understanding of front-end technologies. I enjoy coding, user experience and turning my ideas into reality through my projects. </p>
   
   <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="200"/>
   <details>
@@ -73,8 +69,8 @@ An aspiring Junior Web Developer available for work on various projects in Front
   </br>
     ⚙️ I'm looking to collaborate on projects that will help me improve my skills.</p>
     :writing_hand: Writing programming blogs over at  :newspaper:<a href="https://codingexpert.medium.com/">Medium</a></p>
-    💡  I'm really passionate about computers and programming.</p>
-    ⭐️ Reading blog post about programming whenever possible.</p>
+    💡 I'm really passionate about computers and programming.</p>
+    ⭐️ I'm reading articles about programming whenever possible.</p>
     ⚡ Fun fact: I love Yoga, Cycling and Reading books.</p>
 <br><br>
 </details>
