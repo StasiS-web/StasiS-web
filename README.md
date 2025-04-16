@@ -73,7 +73,7 @@
     ⚡ Fun fact: I love Yoga, Cycling and Reading books.</p>
 <br><br>
 </details>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <h2> :computer: Projects: </h2>
 <p>Some of my projects (finished or unfinished) are already on my github, so feel free to take a look!</p>
