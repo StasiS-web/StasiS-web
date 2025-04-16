@@ -60,7 +60,7 @@
 </div></td></tr></table> 
 
 <h2> About me 🤓: </h2>
-An aspiring Front-End Developer with hands-on experience developing websites and applications using HTML, CSS, JavaScript, and React. I have completed a 3-year Web Development course at Software University (SoftUni), where I gained a solid understanding of front-end technologies. I enjoy coding, user experience and turning my ideas into reality through my projects. </p>
+An aspiring Front-End Developer with hands-on experience developing websites and applications. I have completed a 3-year Web Development course at Software University (SoftUni), where I gained a solid understanding of front-end technologies. I enjoy coding, user experience and turning my ideas into reality through my projects. </p>
   
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="240"/>
 <details>
@@ -73,7 +73,7 @@ An aspiring Front-End Developer with hands-on experience developing websites and
     ⚡ Fun fact: I love Yoga, Cycling and Reading books.</p>
 <br><br>
 </details>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <h2> :computer: Projects: </h2>
 <p>Some of my projects (finished or unfinished) are already on my github, so feel free to take a look!</p>
