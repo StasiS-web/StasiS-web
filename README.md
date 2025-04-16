@@ -48,7 +48,6 @@
 <h3> Backend & Database </h3>
 <div align="center">  
 <img src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=plastic" /> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"  />
 <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png" width="40" height="40"/>
 </div></td><td valign="top" width="33%">
 
