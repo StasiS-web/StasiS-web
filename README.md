@@ -62,7 +62,7 @@
 <h2> About me 🤓: </h2>
 An aspiring Front-End Developer with hands-on experience developing websites and applications. I have completed a 3-year Web Development course at Software University (SoftUni), where I gained a solid understanding of front-end technologies. I enjoy coding, user experience and turning my ideas into reality through my projects. </p>
   
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="240"/>
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="200"/>
 <details>
   <summary>More About me</summary>
   </br>
